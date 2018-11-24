@@ -7,3 +7,4 @@ public class Bot {
         JDA api = new JDABuilder(Token.token).build();
     }
 }
+
